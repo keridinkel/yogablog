@@ -80,13 +80,3 @@ a {
 iframe {
     border: none;
 }
-  
-.iframe-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    padding: 0 10px;
-    position: relative;
-    padding-top: 56.25%;
-}
