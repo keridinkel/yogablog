@@ -44,7 +44,7 @@ a {
 
 .btn-custom {
     font-family: 'roboto', sans-serif;
-    background: #CDA9D4;
+    background: #FFD166;
     color: #333333;
     font-size: 20px;
     font-weight: bold;
@@ -52,7 +52,7 @@ a {
 }
 
 .btn-custom:hover{
-    background: #FFD166;
+    background: #CDA9D4;
     color: #333333;
 }
 
