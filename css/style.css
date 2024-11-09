@@ -90,9 +90,3 @@ iframe {
     position: relative;
     padding-top: 56.25%;
 }
-
-.iframe-container iframe {
-    width: 50%;
-    display: block;      
-    margin: auto;
-}
