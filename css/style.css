@@ -101,7 +101,7 @@ iframe {
 .float{
 	position:fixed;
 	width:100px;
-	height:60px;
+	height:30px;
     bottom:60px;
 	right:40px;
 	background-color:#CDA9D4;
